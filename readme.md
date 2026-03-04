@@ -79,7 +79,8 @@ ai-resume-screening/
 │
 └── README.md
 ```
-
+Interactive Architecture Demo:
+View the animated workflow here: https://avisrj062002.github.io/ai-resume-screening-system/
 ---
 
 # ⚙️ Setup Instructions
