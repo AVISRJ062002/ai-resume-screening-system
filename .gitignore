@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Lambda build files
+lambda.zip
+build/
+package/
+
+# OS files
+.DS_Store
+Thumbs.db
